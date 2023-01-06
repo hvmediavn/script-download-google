@@ -2,6 +2,18 @@
 ## Author : Hoang Nam
 ## Last Updated : 30/12/2022
 ## Company : AZDIG
+
+cat << "EOF"
+ _   _                                          _   _
+| \ | | __ _ _   _ _   _  ___ _ __             | \ | | __ _ _ __ ___
+|  \| |/ _` | | | | | | |/ _ \ '_ \ _____ _____|  \| |/ _` | '_ ` _ \
+| |\  | (_| | |_| | |_| |  __/ | | |_____|_____| |\  | (_| | | | | | |
+|_| \_|\__, |\__,_|\__, |\___|_| |_|           |_| \_|\__,_|_| |_| |_|
+       |___/       |___/
+
+EOF
+
+
 echo "! Script download google !"
 read -p "Nhap ten file can down : " file
 read -p "Nhap ID cua googledirver : " idgoogle
