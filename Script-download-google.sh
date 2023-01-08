@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 ## Author : Hoang Nam
 ## Last Updated : 30/12/2022
 ## Company : AZDIG
